@@ -1,0 +1,133 @@
+@import url('media.css');
+
+#tam-sayfa-cerceve-alani {
+	position: relative;
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	background-color: #eee;
+	vertical-align: top;
+	text-align: center;
+}
+#tam-sayfa-cerceve-sinirlama-alani {
+	position: relative;
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #eee;
+	vertical-align: middle;
+	text-align: center;
+}
+#tam-sayfa-cerceve-yuzdeyuzluk-alani {
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: center;
+}
+#tam-sayfa-cerceve-ici-alti-cizili-baslik-alani {
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+#tam-sayfa-cerceve-ici-alti-cizili-baslik-alani-ust-baslik {
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: left;
+	font-family: 'Yantramanav', sans-serif;
+	color: #f90;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: top;
+	font-size: 15px;
+}
+#tam-sayfa-cerceve-ici-alti-cizili-baslik-alani-alt-baslik {
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: left;
+	font-family: 'Yantramanav', sans-serif;
+	color: #646464;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: top;
+}
+#tam-sayfa-cerceve-ici-alti-cizili-bilgilendirme-alani {
+	position: relative;
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	padding-top: 10px;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	vertical-align: top;
+	text-align: left;
+	background-color: #fff;
+	font-family: 'Yantramanav', sans-serif;
+	color: #646464;
+	line-height: 130%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+}

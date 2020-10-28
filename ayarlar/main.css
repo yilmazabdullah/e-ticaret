@@ -1,0 +1,19 @@
+main {
+	position: relative;
+	display: block;
+	z-index: 98;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	left: 0;
+	border: none;
+	outline: 0;
+	vertical-align: top;
+	text-align: center;
+	background: rgb(248, 239, 239);
+	top: 68px;
+	/* her türlü 108 çıktı*/
+}

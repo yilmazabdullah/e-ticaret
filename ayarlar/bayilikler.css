@@ -1,0 +1,38 @@
+@import url('media.css');
+
+#bayilikler-main-alani {
+	display: block;
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #eee;
+}
+
+#bayilikler-main-orta-alani {
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+}
+#bayilikler-main-orta-baslik-alani {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0 10px;
+	border: none;
+	border-bottom: 1px solid #eee;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+}

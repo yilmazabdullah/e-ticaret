@@ -1,0 +1,85 @@
+#headacmabutonusinir {
+	display: none;
+}
+.haltsecenekler {
+	font-size: 12px;
+}
+#haltsecenekalani {
+	padding-top: 10px;
+}
+
+#headernavlist {
+	display: block;
+}
+#acmakapamaheader {
+	display: none;
+}
+body {
+	font-size: 12px;
+}
+#headermesajalani {
+	height: auto;
+	min-height: auto;
+	max-height: auto;
+	background-color: tomato;
+}
+#headerustmenusinirlamaalani {
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+}
+#headeraltmenualani {
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#footermenusinirlamaalani {
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+}
+.footermenusutunalani {
+	width: 25%;
+	min-width: 25%;
+	max-width: 25%;
+}
+.fotermenubaslikalani {
+	font-size: 12px;
+}
+.fotermenuleralani {
+	font-size: 12px;
+}
+#sonucsayfalarialani {
+	padding: 5px 0;
+}
+#tam-sayfa-cerceve-alani {
+	padding: 5px 0;
+}
+#tam-sayfa-cerceve-yuzdeyuzluk-alani {
+	width: calc(100% - 200px);
+	min-width: calc(100% - 200px);
+	max-width: calc(100% - 200px);
+	padding: 10px;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-sinirlama-alani {
+	width: calc(50% - 32px);
+	min-width: calc(50% - 32px);
+	max-width: calc(50% - 32px);
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-tablosu-baslik-sutunu {
+	width: 50px;
+	min-width: 50px;
+	max-width: 50px;
+	font-size: 12px;
+}
+#footermenuleralani {
+	width: calc(100% - 200px);
+	min-width: calc(100% - 200px);
+	max-width: calc(100% - 200px);
+}
+#bayilikler-main-orta-alani {
+	width: calc(100% - 200px);
+	font-size: 12px;
+}

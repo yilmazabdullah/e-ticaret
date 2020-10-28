@@ -1,0 +1,135 @@
+@import url('media.css');
+
+#tam-sayfa-cerceve-ici-banka-hesaplari-alani {
+	position: relative;
+	display: block;
+	float: left;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: left;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-sinirlama-alani {
+	display: inline-block;
+	float: left;
+	height: auto;
+	margin: 10px 5px auto 5px;
+	padding: 0;
+	padding: 10px;
+	border: none;
+	border: 1px solid #ccc;
+	border-radius: 10%;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: left;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-logo-alani {
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: 128px;
+	margin: 0 auto;
+	padding: 0;
+	padding-bottom: 10px;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: center;
+	text-decoration: none;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-logo-alani img {
+	display: block;
+	width: auto;
+	height: 128px;
+	margin: 0 auto;
+	padding: 0;
+	padding-bottom: 10px;
+	border: none;
+	outline: none;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-tablosu {
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: left;
+	text-decoration: none;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-tablosu-baslik-sutunu {
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	background-color: #fff;
+	font-family: 'Yantramanav', sans-serif;
+	color: #646464;
+	line-height: 125%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: top;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-tablosu-nokta-metni-sutunu {
+	width: 55px;
+	min-width: 55px;
+	max-width: 55px;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	background-color: #fff;
+	font-family: 'Yantramanav', sans-serif;
+	color: #646464;
+	line-height: 125%;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: top;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-tablosu-icerik-metni-sutunu {
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	background-color: #fff;
+	font-family: 'Yantramanav', sans-serif;
+	color: #646464;
+	line-height: 125%;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: top;
+}

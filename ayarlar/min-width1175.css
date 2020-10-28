@@ -1,0 +1,88 @@
+#headacmabutonusinir {
+	display: none;
+}
+.haltsecenekler {
+	font-size: 14px;
+}
+#haltsecenekalani {
+	padding-top: 8px;
+}
+
+#headernavlist {
+	display: block;
+}
+#acmakapamaheader {
+	display: none;
+}
+
+body {
+	font-size: 14px;
+}
+#headermesajalani {
+	height: auto;
+	min-height: auto;
+	max-height: auto;
+	background-color: teal;
+}
+#headerustmenusinirlamaalani {
+	width: 1175px;
+	min-width: 1175px;
+	max-width: 1175px;
+}
+#headeraltmenualani {
+	width: 1175px;
+	min-width: 1175px;
+	max-width: 1175px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#footermenusinirlamaalani {
+	width: 1175px;
+	min-width: 1175px;
+	max-width: 1175px;
+}
+.footermenusutunalani {
+	width: 25%;
+	min-width: 25%;
+	max-width: 25%;
+}
+.fotermenubaslikalani {
+	font-size: 14px;
+}
+.fotermenuleralani {
+	font-size: 14px;
+}
+#sonucsayfalarialani {
+	padding: 10px 0;
+}
+#tam-sayfa-cerceve-alani {
+	padding: 10px 0;
+}
+#tam-sayfa-cerceve-yuzdeyuzluk-alani {
+	width: calc(100% - 600px);
+	min-width: calc(100% - 600px);
+	max-width: calc(100% - 600px);
+	padding: 10px;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-sinirlama-alani {
+	width: calc(33.33% - 32px);
+	min-width: calc(33.33% - 32px);
+	max-width: calc(33.33% - 32px);
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-tablosu-baslik-sutunu {
+	width: 60px;
+	min-width: 60px;
+	max-width: 60px;
+	font-size: 14px;
+}
+
+#footermenuleralani {
+	width: calc(100% - 600px);
+	min-width: calc(100% - 600px);
+	max-width: calc(100% - 600px);
+}
+
+#bayilikler-main-orta-alani {
+	width: calc(100% - 600px);
+	font-size: 14px;
+}

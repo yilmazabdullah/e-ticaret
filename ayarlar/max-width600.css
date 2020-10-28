@@ -1,0 +1,79 @@
+#headacmabutonusinir {
+	display: block;
+}
+#acmakapamaheader {
+	display: block;
+}
+#headernavlist {
+	display: none;
+}
+
+body {
+	font-size: 10px;
+}
+#headermesajalani {
+	height: auto;
+	min-height: auto;
+	max-height: auto;
+	background-color: violet;
+}
+#headerustmenusinirlamaalani {
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+}
+#headeraltmenualani {
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#footermenusinirlamaalani {
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+}
+.footermenusutunalani {
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+}
+.fotermenubaslikalani {
+	font-size: 12px;
+}
+.fotermenuleralani {
+	font-size: 12px;
+}
+#sonucsayfalarialani {
+	padding: 5px 0;
+}
+#tam-sayfa-cerceve-alani {
+	padding: 5px 0;
+}
+#tam-sayfa-cerceve-yuzdeyuzluk-alani {
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	padding: 10px;
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-sinirlama-alani {
+	width: calc(100% - 32px);
+	min-width: calc(100% - 32px);
+	max-width: calc(100% - 32px);
+}
+.tam-sayfa-cerceve-ici-banka-hesaplari-tablosu-baslik-sutunu {
+	width: 50px;
+	min-width: 50px;
+	max-width: 50px;
+	font-size: 12px;
+}
+#footermenuleralani {
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+}
+#bayilikler-main-orta-alani {
+	width: 100%;
+	font-size: 12px;
+}

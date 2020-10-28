@@ -1,0 +1,102 @@
+@import url('media.css');
+
+.tam-sayfa-cerceve-ici-alti-cizili-bilgilendirme-alani {
+	display: block;
+	padding: 0;
+	margin: 0 auto;
+	padding-top: 10px;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+}
+.havale-bildirim-input-alani {
+	display: flex;
+	padding: 0;
+	justify-content: center;
+	margin: 0 auto;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+}
+.havale-bildirim-input-girdi-alani {
+	display: inline-block;
+	float: left;
+	padding: 0;
+	margin: 0;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+	list-style: none;
+}
+.havale-bildirim-input-girdi-kisi-alani {
+	display: inline-block;
+	float: left;
+	padding: 0;
+	padding: 5px 0;
+	margin: 0;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+	list-style: none;
+}
+.havale-bildirim-input-girdi-alani ul {
+	list-style: none;
+	margin: 0;
+	display: inline;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+	text-align: left;
+}
+.havale-bildirim-input-girdi-alani ul li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.havale-bildirim-input-girdi-kisi-alani ul {
+	list-style: none;
+	margin: 0;
+	display: inline;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+	text-align: left;
+}
+.havale-bildirim-input-girdi-kisi-alani ul li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#havale-bildirim-gonder-alani {
+	display: inline;
+	margin: 0;
+	margin-left: 50px;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+}
+#havale-bildirim-gonder-alani button {
+	background-color: rgb(33, 241, 33);
+	color: black;
+	border: none;
+	border: 1px solid black;
+	border-radius: 10%;
+	outline: none;
+	width: 70px;
+	height: 30px;
+	box-sizing: border-box;
+	margin: 0 auto;
+	padding: 0;
+	transition: 0.6s;
+}
+#havale-bildirim-gonder-alani button:hover {
+	background-color: rgb(240, 95, 143);
+	color: black;
+	border: none;
+	border: 1px solid black;
+	border-radius: 10%;
+	outline: none;
+	width: 70px;
+	height: 30px;
+	box-sizing: border-box;
+	margin: 0 auto;
+	padding: 0;
+}

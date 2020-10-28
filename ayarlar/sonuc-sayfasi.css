@@ -1,0 +1,147 @@
+#sonucsayfalarialani {
+	position: relative;
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: 0;
+	background-color: #eee;
+	vertical-align: top;
+	text-align: center;
+}
+#sonucsayfaarisinirlama-alani {
+	position: relative;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	overflow: hidden;
+	border: 1px solid #ccc;
+	outline: 0;
+	background-color: #fff;
+	vertical-align: middle;
+	text-align: center;
+}
+#sonuc-sayfalari-bilgi-alani {
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: 0;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: center;
+}
+#sonuc-sayfalari-islem-iconu-alani {
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: 128px;
+	min-height: 128px;
+	max-height: 128px;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: 0;
+	overflow: hidden;
+	background-color: #fff;
+	vertical-align: top;
+	text-align: center;
+	text-decoration: none;
+}
+#sonuc-sayfalari-islem-iconu-alani img {
+	display: block;
+	width: 128px;
+	min-width: 128px;
+	max-width: 128px;
+	height: 128px;
+	min-height: 128px;
+	max-height: 128px;
+	margin: 0 auto;
+	margin-top: 5px;
+	padding: 0;
+	border: none;
+	outline: 0;
+}
+#sonuc-sayfalari-baslik-alani {
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 10px;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	font-family: 'Yantramanav', sans-serif;
+	color: #646464;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: top;
+}
+#sonuc-sayfalari-icerik-alani {
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 10px auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #fff;
+	font-family: 'Yantramanav', sans-serif;
+	color: #646464;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: top;
+}
+#sonuc-sayfalari-icerik-alani a {
+	font-family: 'Yantramanav', sans-serif;
+	color: #646464;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+#sonuc-sayfalari-icerik-alani a:link,
+#sonuc-sayfalari-icerik-alani a:active,
+#sonuc-sayfalari-icerik-alani a:visited {
+	font-family: 'Yantramanav', sans-serif;
+	color: #646464;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+#sonuc-sayfalari-icerik-alani a:hover {
+	font-family: 'Yantramanav', sans-serif;
+	color: rgb(70, 10, 10);
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: underline;
+}
